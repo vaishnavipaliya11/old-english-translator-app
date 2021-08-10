@@ -1,0 +1,7 @@
+.output{
+  border: solid black 2px;
+  width: 90%;
+  height: 15vh;
+  font-size: 2rem;
+  text-align: center;
+}
